@@ -1,0 +1,6 @@
+El presente proyecto soluciona la problemática de la falta de información que reciben los 
+familiares de un paciente internado en algún centro médico a través de la implementación 
+de un entorno de información el cual consta de un bot en la plataforma Telegram el cual 
+brindará información rápida acerca del paciente, además de una página web que permitirá a 
+los familiares conocer mejor el estado del paciente a través de informes generados por el
+personal médico.
